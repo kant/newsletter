@@ -2,7 +2,7 @@
 
 > Newsletter email templates
 
-The HTML email templates for Ueno's wonderful [newsletter](https://ueno.co/newsletter). They use [Foundation for Emails](https://foundation.zurb.com/emails) components and CSS, and are compiled with Handlebars.
+The HTML email templates for Ueno's wonderful [newsletter](https://ueno.co/newsletter). They use [Foundation for Emails](https://github.com/foundation/foundation-emails) components and CSS, and are compiled with Handlebars.
 
 ## Installation
 
